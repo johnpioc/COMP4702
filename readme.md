@@ -10,3 +10,5 @@ for COMP4702: Machine Learning.
 | [Week 4: Basic Parametric Models and Statistical Learning](https://github.com/johnpioc/COMP4702/blob/main/w4-prac.ipynb) | - To gain some experience in performing regression with linear and polynomial models and classification with parametric models |
 | [Week 5: Performance](https://github.com/johnpioc/COMP4702/blob/main/w5-prac.ipynb) | - To gain some experience in evaluating supervised machine learning models |
 | [Week 6: Performance contd. and Loss Functions](https://github.com/johnpioc/COMP4702/blob/main/w6-prac.ipynb) | - To gain some practical experience evaluating supervised machine learning models |
+| [Week 7: Multilayer Perceptron Neural Networks](https://github.com/johnpioc/COMP4702/blob/main/w7-prac.ipynb) | - To gain some experience in constructing multilayer perceptron networks and solving problems with them | 
+| [Week 8: Convolutional Neural Networks](https://github.com/johnpioc/COMP4702/blob/main/w8-prac.ipynb) | - To gain some experience in constructing CNNs in Pytorch and configuring different parameters |
